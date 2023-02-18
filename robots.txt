@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anger.github.io/blog/sitemap.xml
